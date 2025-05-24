@@ -1,7 +1,5 @@
 # Customer Purchase Behavior Analysis Applied Statistics
 
-
-## Problem Statement
 #### 🔍 Problem Statement:
 
  Welcome to the Probability and Statistics project! 📊🔍 In this exciting journey, you'll get the chance to apply the concepts you've learned in probability theory and statistics to analyze a real-world dataset. This project is your opportunity to dive deep into the world of data analysis and gain practical experience with the tools and techniques you've been learning. 🚀
@@ -73,3 +71,6 @@ Provide a detailed report on the steps taken to handle missing values, including
 #### Summary of Basic Statistics:
 
 Present calculated statistics such as mean, median, variance, and standard deviation for each relevant numerical variable. Include a concise table or summary showcasing these measures for easy reference.
+
+
+**In this project, I cleaned the dataset by handling missing values and removing outliers to ensure data quality. Calculated key statistical metrics such as mean, median, mode, variance, and standard deviation. Identified outliers and explored underlying probability distributions like Normal and Binomial to understand customer behavior patterns. Computed probabilities and expected values for relevant features. Created clear visualizations to support data-driven insights. Based on the analysis, generated actionable recommendations were generated for improving customer engagement and sales strategy. This project highlights the use of core statistical methods to drive business decisions.**

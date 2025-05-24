@@ -1,6 +1,4 @@
-# Customer-Purchase-Behavior-Analysis-Applied-Statistics
-
-#### Customer Purchase Behavior Analysis Applied Statistics Project
+# Customer Purchase Behavior Analysis Applied Statistics
 
 
 ## Problem Statement
@@ -51,7 +49,7 @@ This data was gathered during last year's campaign. Data description is as follo
 
 * NumDealsPurchases - number of purchases made with discount
 
-* NumCatalogPurchases - number of purchases made using catalog (buying goods to be shipped through the mail)
+* NumCatalogPurchases - number of purchases made using the catalog (buying goods to be shipped through the mail)
 
 * NumStorePurchases - number of purchases made directly in stores
 
@@ -61,7 +59,7 @@ This data was gathered during last year's campaign. Data description is as follo
 
 * Recency - number of days since the last purchase
 
-### Task 1 - Basic CleanUp
+### Task 1 - Basic Cleanup
 Clean and preprocess the dataset (handling missing values, data types, etc.).
 
 Analyze the distribution of customer demographics (age, education, marital status) using descriptive statistics and visualizations.
